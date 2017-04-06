@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<set>
+    <!-- crMax="高于开盘价的颜色" crMin="低于于开盘价的颜色" crMaxEx="低于设置的最高价的颜色" crMinEx="低于设置最低价的颜色"-->
+    <!-- <color crMax="255,0,0" crMin="0,255,0" crMaxEx="173,39,38" crMinEx="66,138,58"  Brokerage="佣金"/>  
+    -->
+    <color crMax="227,23,13" crMin="0,128,0" crMaxEx="178,34,34" crMinEx="12,18,24"  Brokerage="0.00025"/> 
+    <stock> 
+<!-- 
+请先配置好相关数据  
+在点下面的⊙按钮重新加载 
+按ctrl+shift+2 显示隐藏界面
+按ctrl+shift+〈 降低窗口透明度
+按ctrl+shift+〉 提高窗口透明度 
+<item NO = 股票代码 Min =最低价 Max = 最高价 count =持股数 p = 成本价 / > 
+<item NO="sh600664" Min="8.25" Max="8.45" count="0" p="0"/> 
+-->
+        <item NO="600569" Min="3.45" Max="3.65" > 
+            <Price p="3.41" count="200" time="2017-03-20"/>
+            <Price p="3.52" count="200" time="2017-03-23"/>
+        </item>
+        <item NO="000961" Min="8.36" Max="9.05">
+            <Price p="8.37" count="400" time="2017-03-22" />
+        </item>
+        <item NO="600664" Min="7.60" Max="8.05"> 
+             <Price p="7.73" count="1000" time="2017-03-28" /> 
+        </item>
+		
+		<item NO="sh600074" Min="12.30" Max="14.05"/>
+		
+		<item NO="sz399001" comment="深证成指" /> 
+        <item NO="sh000001" comment="上证指数"/> 
+     <!--    
+          
+		<item NO="002437" Min="8.28" Max="8.45" />
+		<item NO="000776" Min="17.28" Max="17.80" />
+        <item NO="002349" /> 
+        <item NO="002341" /> 
+        <item NO="002342" /> 
+        <item NO="sz002343" /> 
+		
+		<item NO="sz399001" comment="深证成指" /> 
+        <item NO="sh000001" comment="上证指数"/> 
+        <item NO="sh000300" comment="沪深300"/> 
+        <item NO="sz399005" comment="中小板指"/> 
+        <item NO="sz399006" comment="创业板指"/> 
+        <item NO="sh000003" comment="B股指数"/>  -->
+    </stock>
+</set>
