@@ -1,13 +1,12 @@
 **************重要说明******************************
-*为了减少程序的体积程序采用了UPX压缩                  *
-*大部分的安全软件会拦截,软件不带毒的                  *
-*我编译后就把MD5 HASH值放进去                        *
-*大小：	397, 312 字节                              *
-*修改时间：2017-04-06 09:09:25                      *
-*MD5：	6FDCB79BD877421406AB8F0EDE97E4A2           *
-*SHA1：	AE28F475D7BECDB9711112AE96177A4983F9A03D   *
-*CRC32：4807BAFD                                   *
-****************************************************
+为了减少程序的体积程序采用了UPX压缩                  
+大部分的安全软件会拦截,软件不带毒的                  
+我编译后就把下面的信息放进去                        
+大小：	397, 312 字节                              
+修改时间：2017-04-06 09:09:25                      
+MD5：	6FDCB79BD877421406AB8F0EDE97E4A2           
+SHA1：	AE28F475D7BECDB9711112AE96177A4983F9A03D   
+CRC32：4807BAFD                                    
 
 网盘路径 http://pan.baidu.com/s/1hrO3FDi#list/path=%2F
 
@@ -35,31 +34,4 @@
 </item>
 <item NO="sh600664" Min="8.25" Max="8.45"/> 
 
-有什么建议或者问题请给我发邮件  canye2008ATgmail.com
-
-如
-
-<?xml version="1.0" encoding="UTF-8"?>
-<set> 
-    <color crMax="227,23,13" crMin="0,128,0" crMaxEx="178,34,34" crMinEx="0,128,0" Brokerage="0.00025" /> 
-    <stock> 
- 
-        <item NO="600569" Min="3.45" Max="3.65" >
-            <Price p="3.50" count="200" time="2017-03-17"/>
-            <Price p="3.41" count="200" time="2017-03-20"/>
-        </item>
-        <item NO="000961" Min="8.36" Max="9.05">
-            <Price p="8.37" count="2400" time="2017-03-22" />
-        </item>
-        <item NO="600664" Min="7.60" Max="8.05">
-             <Price p="7.77" count="5000" time="2017-03-27" /> 
-        </item>
-		
-		<item NO="sh600074" Min="13.30" Max="14.05"/>
-		 
-		<item NO="002437" Min="8.28" Max="8.45" />
-		<item NO="000776" Min="17.28" Max="17.80" />
-		
-        <item NO="sh000001" comment="上证指数"/>  
-    </stock>
-</set>
+有什么建议或者问题请给我发邮件  canye2008ATgmail.com 
