@@ -1,37 +1,38 @@
-           重要说明
-为了减少程序的体积程序采用了UPX压缩                  
-大部分的安全软件会拦截,软件不带毒的                  
-我编译后就把下面的信息放进去                        
-大小：	397, 312 字节                              
-修改时间：2017-04-06 09:09:25                      
-MD5：	6FDCB79BD877421406AB8F0EDE97E4A2           
-SHA1：	AE28F475D7BECDB9711112AE96177A4983F9A03D   
-CRC32：4807BAFD                                    
+**************��Ҫ˵��******************************
+*Ϊ�˼��ٳ����������������UPXѹ��               *
+*�󲿷ֵİ�ȫ����������,������������(û������ǩ��) *
+****************************************************
+�ļ��� Notify_u.exe (upxѹ������ļ�)
+��С��	410, 624 �ֽ�
+�޸�ʱ�䣺2017-04-13 15:44:57
+MD5��	D6E0216DA2F2011E575A221CA7768508
+SHA1��	D8DE9AE4AF12ED893F88EDA10C2F58D3351BA09E
+CRC32��8FE6B23B
 
-网盘路径 http://pan.baidu.com/s/1hrO3FDi#list/path=%2F
 
-请先配置好相关数据  当前目录下的cfg.xml(建议用像notepad++这个的编辑工具打开编辑)
-在点下面的⊙按钮重新加载 
-点下面的E按钮退出程序
-按ctrl+shift+1显示隐藏界面
-按ctrl+shift+2 设置取消鼠标穿透
-按ctrl+shift+<(>) 降低(提高)窗口透明度 
-按ctrl+shift+alt+x  退出软件
+�ļ���	 Notify.exe
+��С��	893, 440 �ֽ�
+�޸�ʱ�䣺2017-04-13 15:44:57
+MD5��	635DA6A85118F8BA3A06B644E02BDD1F
+SHA1��	9CDC77FBA65DC4FD7132C7437DD0EC269410185E
+CRC32��7574D6D9
 
-点击股票名称可以更改股票代码
-按C快速清空当前股票代码
-按s快速输入600
-按z快速输入000
 
-点击股票名称后面的可以显示日k等详情。
-快捷键:
-1 分时线
-2 日K线
-3 周K线
-4 月K线 
-<item NO = 股票代码 Min =提醒最低价 Max = 提醒最高价   >
-	<Price count =持股数 p = 成本价 time="购买时间"/>
-</item>
-<item NO="sh600664" Min="8.25" Max="8.45"/> 
 
-有什么建议或者问题请给我发邮件  canye2008ATgmail.com 
+�������ú��������  ��ǰĿ¼�µ�cfg.xml(��������notepad++����ı༭���ߴ򿪱༭)
+�ڵ�����ġѰ�ť���¼��� 
+��ctrl+shift+1��ʾ���ؽ���
+��ctrl+shift+2 ����ȡ����괩͸
+��ctrl+shift+R ���¼������� 
+��ctrl+shift+<(>) ����(���)����͸���� 
+��ctrl+shift+alt+x  �˳�����
+
+�����Ʊ���ƿ��Ը��Ĺ�Ʊ����
+��C������յ�ǰ��Ʊ����
+��s��������600
+��z��������000
+
+�����Ʊ���ƺ���Ŀ�����ʾ��k�����顣
+��ݼ�: 1 ��ʱ�� 2 ��K�� 3 ��K�� 4 ��K��  
+��ʲô���������������ҷ��ʼ�  canye2008ATgmail.com
+ 

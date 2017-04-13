@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Updater>
-<LastVersion version="V0.001 (build04-11)" VerNumber="1491879792" fileName="Notify.7z" NOTE="增加了自动更新的功能和调整了颜色显示不正确的问题"/>
+<LastVersion version="V0.001 (build04-13)" VerNumber="1492069494" fileName="Notify.7z" NOTE="增加了重新加载配置文件的快捷键和涨停信息"/>
 </Updater>
