@@ -4,10 +4,10 @@
 <br>
 文件：	Notify.exe<br>
 大小：	901, 632 字节<br>
-修改时间：2017-04-17 13:40:20<br>
-MD5：	BD945270307A7CDCE7067536214502F2<br>
-SHA1：	9033F4C8C34C78BC25B6384293D37518567ADECF<br>
-CRC32：7B021D67<br>
+修改时间：2017-04-17 16:47:23<br>
+MD5：	3304BC279569E65CF59E63274EF91C73<br>
+SHA1：	D38227A41607ADDD89A57E222991E26F03CC3188<br>
+CRC32：EAC27388 <br>
 <br>
 <br>
 请先配置好相关数据  当前目录下的cfg.xml(建议用像notepad++这个的编辑工具打开编辑)<br>
@@ -16,8 +16,13 @@ CRC32：7B021D67<br>
 按ctrl+shift+2 设置取消鼠标穿透<br>
 按ctrl+shift+R 重新加载配置 <br>
 按ctrl+shift+S 显示隐藏总收益(伸缩窗口) <br>
-按ctrl+shift+<(>) 降低(提高)窗口透明度 <br>
+按ctrl+shift+<(>) 降低(提高)窗口透明度 <br> 
+按ctrl+shift+Q  显示隐藏涨停提示界面 <br>
 按ctrl+shift+alt+x  退出软件<br>
+<br>
+****数据更新******<br>
+1  可以老的cfg.xml 里面的<stock>标签下的数据手动更新一下到新的配置文件里<br>
+2  或者把最新的配置文件里的新增加的标签增加到自己配置的cfg.xml文件中<br>
 <br>
 点击股票名称可以更改股票代码<br>
 按C快速清空当前股票代码<br>
