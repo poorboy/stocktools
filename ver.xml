@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Updater>
-<LastVersion version="V0.001 (build04-27)" VerNumber="1493281940" fileName="Notify.7z" NOTE="增加了自动下载更新文件和注册热键失败添加到托盘和右键菜单的功能"/>
+<LastVersion version="V0.001 (build04-28)" VerNumber="1493377280" fileName="Notify.7z" NOTE="修复了一些小BUG和增加在软件主界面上的右建菜单"/>
 </Updater>
