@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Updater>
-<LastVersion version="V0.001 (build04-28)" VerNumber="1493377280" fileName="Notify.7z" NOTE="修复了一些小BUG和增加在软件主界面上的右建菜单"/>
+<LastVersion version="V0.001 (build05-08)" VerNumber="1494225325" fileName="Notify.7z" NOTE="增加了设置界面,可以不用自己修改XML配置文件"/>
 </Updater>

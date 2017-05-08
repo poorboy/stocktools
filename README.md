@@ -3,11 +3,12 @@
 ****************************************************<br>
 <br>
 文件：	Notify.exe<br>
-大小：	1, 064, 448 字节<br>
-修改时间：2017-04-28 19:01:26<br>
-MD5：	7D48CA5B5951EB4790BA272ED0ED61D0<br>
-SHA1：	F1FF8E39132B25AB071BA961EAB8E949CB3AFBAF<br>
-CRC32：6910EE78<br>
+大小：	1, 129, 472 字节<br>
+修改时间：2017-05-08 14:35:31<br>
+MD5：	CFBB9ECEAC5C5F20C0EBC6E4E0E8A15A<br>
+SHA1：	19DEA3AEF13B197ACEC73E20A78FC4A0F4B96BB9<br>
+CRC32：36D4224F<br> 
+<br>
 <br>
 <br>
 请先配置好相关数据  当前目录下的cfg.xml(建议用像notepad++这个的编辑工具打开编辑)<br>
