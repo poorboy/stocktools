@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Updater>
-<LastVersion version="V0.001 (build05-08)" VerNumber="1494225325" fileName="Notify.7z" NOTE="增加了设置界面,可以不用自己修改XML配置文件"/>
+<LastVersion version="V0.001 (build06-12)" VerNumber="1497252493" fileName="Notify.7z" NOTE="增加了设置界面,可以不用自己修改XML配置文件,优化了部分功能"/>
 </Updater>
