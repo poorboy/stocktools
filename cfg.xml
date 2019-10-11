@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<set>
+<color crMax="0,0,255" crMin="235,186,102" crMaxEx="146,56,193" crMinEx="12,18,24" crMaxExBK="100,130,180" CrMinExBK="200,200,170" Brokerage="0.000250"/>
+<Other IsShowInfo="0"/>
+<ShortKey>
+<key id="1" key="Shift+Ctrl+3" desc="显示隐藏界面"/>
+<key id="2" key="Shift+Ctrl+2" desc="设置取消鼠标穿透"/>
+<key id="3" key="Shift+Ctrl+R" desc="重新加载配置"/>
+<key id="4" key="Shift+Ctrl+S" desc="显示隐藏总收益(伸缩窗口)"/>
+<key id="5" key="Shift+Ctrl+&lt;" desc="降低窗口透明度"/>
+<key id="6" key="Shift+Ctrl+&gt;" desc="提高窗口透明度"/>
+<key id="7" key="Shift+Ctrl+Alt+X" desc="退出软件"/>
+<key id="8" key="Shift+Ctrl+Q" desc="显示隐藏涨停提示界面"/>
+</ShortKey>
+<stock>
+<item NO="sh603778"/>
+<item NO="sh603980">
+<Price p="31.50" count="1900" time="2017-06-20"/>
+</item>
+<item NO="sz002109">
+<Price p="10.02" count="2000" time="2017-06-21"/>
+</item>
+<item NO="sz002830">
+<Price p="24.20" count="2000" time="2017-7-10"/>
+</item>
+<item NO="sz002418">
+<Price p="8.03" count="1000" time="2017-8-1"/>
+</item>
+<item NO="sh601886">
+<Price p="10.55" count="1900" time="2017-7-27"/>
+</item>
+<item NO="sz002086">
+<Price p="11.17" count="1000" time="2017-7-27"/>
+</item>
+<item NO="sz002743"/>
+<item NO="sh600517"/>
+<item NO="sh600664"/>
+<item NO="sh600088"/>
+<item NO="sz002302"/>
+<item NO="sz002837"/>
+<item NO="sz002761"/>
+<item NO="sz000756"/>
+<item NO="sz002847"/>
+<item NO="sh603997"/>
+<item NO="sz399001"/>
+<item NO="sh000001"/>
+<item NO="sz399006"/>
+<item NO="sz399005"/>
+<item NO="sh601988"/>
+<item NO="sh601398"/>
+<item NO="sh601288"/>
+</stock>
+</set>
